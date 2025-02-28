@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lilia\\Codes\\Csharp\\scoundrelGame\\scoundrelGame.csproj": {}
+    "C:\\Users\\lilia\\Projects\\DotNETProjects\\scoundrelGame\\scoundrelGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lilia\\Codes\\Csharp\\scoundrelGame\\scoundrelGame.csproj": {
+    "C:\\Users\\lilia\\Projects\\DotNETProjects\\scoundrelGame\\scoundrelGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lilia\\Codes\\Csharp\\scoundrelGame\\scoundrelGame.csproj",
+        "projectUniqueName": "C:\\Users\\lilia\\Projects\\DotNETProjects\\scoundrelGame\\scoundrelGame.csproj",
         "projectName": "scoundrelGame",
-        "projectPath": "C:\\Users\\lilia\\Codes\\Csharp\\scoundrelGame\\scoundrelGame.csproj",
+        "projectPath": "C:\\Users\\lilia\\Projects\\DotNETProjects\\scoundrelGame\\scoundrelGame.csproj",
         "packagesPath": "C:\\Users\\lilia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lilia\\Codes\\Csharp\\scoundrelGame\\obj\\",
+        "outputPath": "C:\\Users\\lilia\\Projects\\DotNETProjects\\scoundrelGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
