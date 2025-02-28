@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scoundrelGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a403a6e781e6a8f23f7d0d1974642e1a62c622")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+061ad51b90aacad1e6eb0a0041db8309951a0995")]
 [assembly: System.Reflection.AssemblyProductAttribute("scoundrelGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scoundrelGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
